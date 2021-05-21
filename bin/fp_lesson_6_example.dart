@@ -1,4 +1,4 @@
-void main(List<String> arguments) {
+void main() {
   final invoicePath = InvoicingPath();
   final availabilityPath = AvailabilityPath();
   final confMap = setConfiguration();
